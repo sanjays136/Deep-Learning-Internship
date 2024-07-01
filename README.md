@@ -46,5 +46,5 @@ The model performance and metrics will be logged using wandb. Graphs such as con
 
 ## Acknowledgments
 
-This project was developed under the guidance of Prof. Mitesh Khapra as part of the Deep Learning Internship at the Indian Institute of Technology Madras.
+This assignment was developed under the guidance of Prof. Mitesh Khapra as part of the Deep Learning Internship at the Indian Institute of Technology Madras.
 
