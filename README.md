@@ -25,20 +25,19 @@ Install the required packages using the following command:
 pip install numpy tqdm wandb matplotlib copy argparse keras
 
 
-Running the Code
+### Running the Code
 To train and evaluate the Feedforward Neural Network, follow these steps:
 
-1. Clone the repository:
+### 1. Clone the repository:
+   https://github.com/sanjays136/Deep-Learning-Internship.git
+
+### 2. Run the training script:
+   python train_model.py 
 
 
-2. Run the training script:
+#### 3. Evaluate the model:
+   python evaluate_model.py
 
-python train_model.py 
-
-
-3. Evaluate the model:
-
-python evaluate_model.py
 
 
 ## Results
